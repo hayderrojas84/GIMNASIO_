@@ -1,5 +1,5 @@
 #calculadora {
-  background: gray; 
+  background: rgb(94, 7, 234); 
   border: 0;
 }
 
@@ -10,7 +10,7 @@
 
 
 .cajita_valor {
-  background-color: #acff38; 
+  background-color: #ff38b9; 
   color: #467702; 
   border: 1px solid #454545; 
   width: 130px; 
