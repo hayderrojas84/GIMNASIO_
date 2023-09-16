@@ -11,10 +11,7 @@ Comunicación Cliente-Negocio: Facilita la comunicación bidireccional entre los
 
 Gestión Administrativa Avanzada: Ayuda a nuestra administración a llevar un registro de ingresos económicos, el estado de los clientes inscritos, la administración de membresías y otras funciones vitales.
 
-Inicio Rápido
-Si deseas probar nuestra plataforma, puedes seguir estos pasos:
-
-Clonar el Repositorio: Utiliza el siguiente comando para clonar este repositorio en tu máquina local:
+![image](https://github.com/hayderrojas84/GIMNASIO_/assets/115327530/3e7ab246-8690-4639-8ea3-9ca4b0fbf110)
 
 bash
 Copy code
