@@ -36,6 +36,7 @@ Este repositorio contiene el código fuente y la documentación relacionada con 
 * Hayder Rojas(hayderrojas84)
 * Nathaly Silva(nathalysilva23)
 * Hamilton Carvajal(hamilton17)
+* Diego Cortes(DACV01)
   
 
 
