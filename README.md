@@ -27,6 +27,7 @@ Este repositorio contiene el código fuente y la documentación relacionada con 
 6. Abre una solicitud de extracción (pull request) en GitHub.
 7. Licencia
 8. Este proyecto está bajo la licencia [nombre de la licencia]. Consulta el archivo LICENSE para obtener más detalles.
+9
 
 ## AUTORES
 
@@ -44,11 +45,15 @@ Este repositorio contiene el código fuente y la documentación relacionada con 
 
 Este proyecto se encuentra actualmente [en desarrollo/activo/estable] y estamos comprometidos a mejorarlo continuamente para servir mejor a nuestros clientes.
 
+
 ## Recursos Externos
 
 Sitio web del Gimnasio Hércules
 [Documentación Adicional](enlace a la documentación)
 Capturas de Pantalla
+Evidencia fotografica y de sonido
+Registro detallado de las visitas al sitio.
+Grabaciones con las problematicas expuestas por el dueño del gym.
 ![image](https://github.com/hayderrojas84/GIMNASIO_/assets/115327530/a0af2391-119e-4e70-b12e-c018986c6fc4)
 
 
